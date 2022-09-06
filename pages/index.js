@@ -13,7 +13,7 @@ export default function Home() {
         <meta name='keywords' content='net ninjas'></meta>
       </Head>
       <div className={styles.title}>
-        <h1>Home Page</h1>
+        <h1>Home</h1>
         <p className={styles.text}>
           lorem epsum <br></br> 
           hi this is some dummy paragraph for text
